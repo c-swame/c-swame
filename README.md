@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 Lorem Ipsum: texto legal sobre mim 🙃 😆 (coloco depois. Qualquer coisa, só chamar nos contatos!)
 
 <!-- - 🔭 Hoje eu trabalho como desenvolvedor fullstack! -->
-- 🌱 Estudando: Python e C# como estudante da [Trybe](https://www.betrybe.com/) e acessibilidade;
-- Outras ferramentas de interesse: AWS, Prisma.
+- 🌱 Estudando: R e PhP;
 
 <div align="center">
   <a href="https://github.com/c-swame">
